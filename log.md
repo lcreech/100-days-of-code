@@ -1,16 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 30, 2016 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Hello World Repo.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Intro to Github. I'll have to decide on how to use pull requests as most of my work will be solo. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Hello World ](https://github.com/lcreech/hello-world)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 31, 2016 (Example 2)
+##### Today is my Birthday
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
