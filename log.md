@@ -11,11 +11,25 @@
 ### Day 1: December 31, 2016 
 ##### Today is my Birthday
 
-**Today's Progress**: I
+**Today's Progress**: I worked on the following projects: 
+Learn how Free Code Camp Works
+Create a GitHub Account and Join our Chat Rooms
+Configure your Profile
+Join a Free Code Camp Group in Your City
+Read Coding News on our Medium Publication
+Learn What to Do If You Get Stuck
+Say Hello to HTML Elements
+Headline with the h2 Element
+Inform with the Paragraph Element
+Uncomment HTML
+Comment out HTML
+Fill in the Blank with Placeholder Text
+Delete HTML Elements
+Change the Color of Text
 
-**Thoughts**: I 
+**Thoughts**: I'll probably do some projects in addition to the coding ground work daily. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Coding Ground Page(https://www.freecodecamp.com/lcreech)
 
 
 ### Day 2: January 1, 2017
