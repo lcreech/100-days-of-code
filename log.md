@@ -30,15 +30,16 @@ Change the Color of Text
 
 **Thoughts**: I'll probably do some projects in addition to the coding ground work daily. 
 
-**Link(s) to work**: [Coding Ground Page(https://www.freecodecamp.com/lcreech)
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
 
 
 ### Day 2: January 1, 2017
 
-**Today's Progress**: I
+**Today's Progress**:  I worked on the following projects:
+Change the Font Size of an Element
+Import a Google Font
+Specify How Fonts Should Degrade
 
-**Thoughts** I
+**Thoughts** I've started the process of updating my coursework into Github as well.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
