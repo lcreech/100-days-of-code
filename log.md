@@ -43,3 +43,22 @@ Specify How Fonts Should Degrade
 **Thoughts** I've started the process of updating my coursework into Github as well.
 
 **Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+
+
+
+### Day 3: January 2, 2017
+
+**Today's Progress**:  I worked on the following projects:
+Add Images to your Website
+Size your Images
+Add Borders Around your Elements
+Add Rounded Corners with a Border Radius
+Make Circular Images with a Border Radius
+Link to External Pages with Anchor Elements
+Nest an Anchor Element within a Paragraph
+Make Dead Links using the Hash Symbol
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
