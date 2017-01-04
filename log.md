@@ -13,11 +13,10 @@
 ##### Today is my Birthday
 
 **Today's Progress**: I worked on the following projects: 
-Learn how Free Code Camp Works
-
+Learn how Free Code Camp Works  
 Create a GitHub Account and Join our Chat Rooms
 Configure your Profile
-Join a Free Code Camp Group in Your City
+  Join a Free Code Camp Group in Your City
 Read Coding News on our Medium Publication
 Learn What to Do If You Get Stuck
 Say Hello to HTML Elements
