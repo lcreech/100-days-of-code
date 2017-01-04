@@ -79,6 +79,13 @@ Add Placeholder Text to a Text Field
 ### Day 5: January 4, 2017
 
 **Today's Progress**:  I worked on the following projects:
+Create a Form Element
+Add a Submit Button to a Form
+Use HTML5 to Require a Field
+Create a Set of Radio Buttons
+Check Radio Buttons and Checkboxes by Default
+Nest Many Elements within a Single Div Element
+Give a Background Color to a Div Element
 
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
