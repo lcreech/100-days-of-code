@@ -12,7 +12,7 @@
 ### Day 1: December 31, 2016 
 ##### Today is my Birthday
 
-**Today's Progress**: I worked on the following projects: 
+**Today's Progress**: I worked on the following projects:  
 Learn how Free Code Camp Works  
 Create a GitHub Account and Join our Chat Rooms
 Configure your Profile
