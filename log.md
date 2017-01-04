@@ -14,6 +14,7 @@
 
 **Today's Progress**: I worked on the following projects: 
 Learn how Free Code Camp Works
+
 Create a GitHub Account and Join our Chat Rooms
 Configure your Profile
 Join a Free Code Camp Group in Your City
