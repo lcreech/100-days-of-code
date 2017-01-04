@@ -62,3 +62,24 @@ Make Dead Links using the Hash Symbol
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
 **Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 4: January 3, 2017
+
+**Today's Progress**:  I worked on the following projects:
+Turn an Image into a Link
+Create a Bulleted Unordered List
+Create an Ordered List
+Create a Text Field
+Add Placeholder Text to a Text Field
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+
+### Day 5: January 4, 2017
+
+**Today's Progress**:  I worked on the following projects:
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
