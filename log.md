@@ -54,7 +54,7 @@ Add Images to your Website
 Size your Images  
 Add Borders Around your Elements  
 Add Rounded Corners with a Border Radius  
-Make Circular Images with a Border Radius 
+Make Circular Images with a Border Radius  
 Link to External Pages with Anchor Elements 
 Nest an Anchor Element within a Paragraph 
 Make Dead Links using the Hash Symbol 
@@ -82,8 +82,8 @@ Add Placeholder Text to a Text Field
 Create a Form Element 
 Add a Submit Button to a Form 
 Use HTML5 to Require a Field  
-Create a Set of Radio Buttons 
-Check Radio Buttons and Checkboxes by Default 
+Create a Set of Radio Buttons  
+Check Radio Buttons and Checkboxes by Default  
 Nest Many Elements within a Single Div Element  
 Give a Background Color to a Div Element  
 
