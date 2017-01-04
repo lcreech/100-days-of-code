@@ -55,7 +55,7 @@ Size your Images
 Add Borders Around your Elements  
 Add Rounded Corners with a Border Radius  
 Make Circular Images with a Border Radius  
-Link to External Pages with Anchor Elements 
+Link to External Pages with Anchor Elements  
 Nest an Anchor Element within a Paragraph 
 Make Dead Links using the Hash Symbol 
 
@@ -79,7 +79,7 @@ Add Placeholder Text to a Text Field
 ### Day 5: January 4, 2017
 
 **Today's Progress**:  I worked on the following projects:  
-Create a Form Element 
+Create a Form Element  
 Add a Submit Button to a Form 
 Use HTML5 to Require a Field  
 Create a Set of Radio Buttons  
