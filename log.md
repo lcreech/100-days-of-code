@@ -86,6 +86,21 @@ Create a Set of Radio Buttons
 Check Radio Buttons and Checkboxes by Default  
 Nest Many Elements within a Single Div Element  
 Give a Background Color to a Div Element  
+Set the ID of an Element  
+Use an ID Attribute to Style an Element 
+Adjusting the Padding of an Element 
+Adjust the Margin of an Element 
+Add a Negative Margin to an Element 
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+
+### Day 6: January 5, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Add Different Padding to Each Side of an Element  
 
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
