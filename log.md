@@ -87,9 +87,9 @@ Check Radio Buttons and Checkboxes by Default
 Nest Many Elements within a Single Div Element  
 Give a Background Color to a Div Element  
 Set the ID of an Element  
-Use an ID Attribute to Style an Element 
-Adjusting the Padding of an Element 
-Adjust the Margin of an Element 
+Use an ID Attribute to Style an Element  
+Adjusting the Padding of an Element  
+Adjust the Margin of an Element  
 Add a Negative Margin to an Element 
 
 **Thoughts** I've continued the process of updating my coursework into Github as well.
