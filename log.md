@@ -101,6 +101,13 @@ Add a Negative Margin to an Element
 
 **Today's Progress**:  I worked on the following projects:  
 Add Different Padding to Each Side of an Element  
+Add Different Margins to Each Side of an Element  
+Use Clockwise Notation to Specify the Padding of an Element 
+Use Clockwise Notation to Specify the Margin of an Element  
+Style the HTML Body Element 
+Inherit Styles from the Body Element  
+Prioritize One Style Over Another 
+Override Styles in Subsequent CSS 
 
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
