@@ -112,3 +112,24 @@ Override Styles in Subsequent CSS
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
 **Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 7: January 6, 2017
+
+**Today's Progress**:  I worked on the following projects:
+Override Class Declarations by Styling ID Attributes  
+Override Class Declarations with Inline Styles
+
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 8: January 7, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Override All Other Styles by using Important
+Use Hex Code for Specific Colors
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
