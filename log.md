@@ -137,9 +137,9 @@ Use Hex Code for Specific Colors
 ### Day 9: January 8, 2017
 
 **Today's Progress**:  I worked on the following projects:  
-Use Responsive Design with Bootstrap Fluid Containers 
-Make Images Mobile Responsive 
-Center Text with Bootstrap  
+Use Responsive Design with Bootstrap Fluid Containers  
+Make Images Mobile Responsive  
+Center Text with Bootstrap    
 
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
@@ -148,13 +148,13 @@ Center Text with Bootstrap
 ### Day 10: January 9, 2017
 
 **Today's Progress**:  I worked on the following projects:  
-Create a Bootstrap Button 
-Create a Block Element Bootstrap Button 
-Taste the Bootstrap Button Color Rainbow  
-Call out Optional Actions with Button Info  
-Warn your Users of a Dangerous Action 
-Use the Bootstrap Grid to Put Elements Side By Side 
-Ditch Custom CSS for Bootstrap  
+Create a Bootstrap Button  
+Create a Block Element Bootstrap Button  
+Taste the Bootstrap Button Color Rainbow    
+Call out Optional Actions with Button Info    
+Warn your Users of a Dangerous Action  
+Use the Bootstrap Grid to Put Elements Side By Side  
+Ditch Custom CSS for Bootstrap    
 
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
