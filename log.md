@@ -159,3 +159,82 @@ Ditch Custom CSS for Bootstrap
 **Thoughts** I've continued the process of updating my coursework into Github as well.
 
 **Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 11: January 10, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 12: January 11, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Create a Custom Heading 
+Responsively Style Radio Buttons  
+Responsively Style Checkboxes 
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 13: January 12, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Style Text Inputs as Form Controls
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 14: January 13, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Line up Form Elements Responsively with Bootstrap 
+Join our LinkedIn Alumni Network  
+Commit to a Goal and a Nonprofit  
+Create a Bootstrap Headline 
+House our page within a Bootstrap Container Fluid Div 
+Create a Bootstrap Row  
+Split your Bootstrap Row  
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 15: January 14, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Create Bootstrap Wells
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 16: January 15, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Add Elements within your Bootstrap Wells
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
+
+### Day 17: January 16, 2017
+
+**Today's Progress**:  I worked on the following projects:  
+Apply the Default Bootstrap Button Style  
+Create a Class to Target with jQuery Selectors  
+Add ID Attributes to Bootstrap Elements 
+Label Bootstrap Wells 
+Give Each Element a Unique ID 
+Label Bootstrap Buttons 
+Use Comments to Clarify Code  
+Join our Forum  
+Watch Coding Videos on our YouTube Channel  
+
+**Thoughts** I've continued the process of updating my coursework into Github as well.
+
+**Link(s) to work**: [Coding Ground Page](https://www.freecodecamp.com/lcreech)
